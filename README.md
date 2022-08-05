@@ -16,8 +16,8 @@
    | [![Chrome](https://raw.githubusercontent.com/OppoYoutubeLiker/OppoYoutubeLiker/main/Images/chrome.png)](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  | [![Firefox](https://raw.githubusercontent.com/OppoYoutubeLiker/OppoYoutubeLiker/main/Images/firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) | [![Opera](https://raw.githubusercontent.com/OppoYoutubeLiker/OppoYoutubeLiker/main/Images/opera.png)](https://addons.opera.com/en/extensions/details/tampermonkey-beta/) | [![Safari](https://raw.githubusercontent.com/OppoYoutubeLiker/OppoYoutubeLiker/main/Images/safari.png)](https://apps.apple.com/us/app/userscripts/id1463298887)  | [![Edge](https://raw.githubusercontent.com/OppoYoutubeLiker/OppoYoutubeLiker/main/Images/edge.png)](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)  |
    | ------------- | ------------- | ------------- | ------------- | ------------- |
    | [Видеоинструкция](https://www.youtube.com/watch?v=cu4XeYtqXbM)  | [Видеоинструкция](https://www.youtube.com/watch?v=J9cbNOO2rew)  | [Видеоинструкция](https://www.youtube.com/watch?v=V090xyUf8dU)  | [Видеоинструкция](https://www.youtube.com/watch?v=iTyLQRVtMCA)  | [Видеоинструкция](https://www.youtube.com/watch?v=Bcs4HhQXCaU)  |
-    
-  <h5>Альтернативные менеджеры скриптов: Violentmonkey или Greasemonkey</h5>
+
+Альтернативные менеджеры скриптов: Violentmonkey или Greasemonkey
 
 </div>
     
@@ -28,8 +28,11 @@
 
  - Все оппозиционные каналы хранятся в скрипте в виде массива. Проще говоря, они заключаются в квадратные скобки и кавычки.
 
+```bash
+
 Пример: ["Алексей Навальный", "Навальный LIVE", "Популярная политика", ... ]
 
+```
 
  - Статус кнопки лайк считывается с маркера YouTube. Если лайк не установлен, веб-страница с видео содержит маркер "false", в противном случае - "true".
 
