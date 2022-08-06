@@ -21,7 +21,7 @@
 
 </div>
     
-2) Нажмите на ссылку и установите скрипт: [![Install](https://raw.githubusercontent.com/OppoYoutubeLiker/OppoYoutubeLiker/main/Images/Install.png)](https://Link.com)
+2) Нажмите на ссылку и установите скрипт: [![Install](https://raw.githubusercontent.com/OppoYoutubeLiker/OppoYoutubeLiker/main/Images/Install.png)](https://github.com/OppoYoutubeLiker/OppoYoutubeLiker/raw/main/Releases/OppoYoutubeLiker1.user.js)
 
 ## Как это работает?
 Как только пользователь попадает на страницу YouTube, скрипт каждые 10 секунд (опционально) проверяет, просматривается ли видео с оппозиционного канала и был ли уже поставлен лайк. Если это оппозиционный канал и нет лайка, скрипт сам ставит его.
