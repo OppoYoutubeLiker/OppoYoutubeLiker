@@ -6,9 +6,9 @@
 // @description:fr  Un simple liker automatique pour la chaîne de l'opposition russe :)
 // @description:it  Semplice auto liker per il canale dell'opposizione russa :)
 // @version         0.0.1 [Beta]
-// @author
-// @namespace
-// @supportURL
+// @author          https://github.com/OppoYoutubeLiker
+// @namespace       https://github.com/OppoYoutubeLiker/OppoYoutubeLiker
+// @supportURL      https://github.com/OppoYoutubeLiker/OppoYoutubeLiker/issues
 // @license         GNU 3.0 & OWN
 // @match           https://www.youtube.com/*
 // @match           https://m.youtube.com/*
